@@ -177,7 +177,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="CNN Intl.it" tvg-chno="901" tvg-logo="https://static.cdnlogo.com/logos/c/45/cnn.png" ,CNN International
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="BBC World News.it" tvg-chno="902" tvg-logo="https://images.seeklogo.com/logo-png/51/2/bbc-news-logo-png_seeklogo-519158.png" ,BBC News UK
+#EXTINF:-1 tvg-id="BBC World News.it" tvg-chno="902" tvg-logo="https://static.wikia.nocookie.net/bbc/images/d/d9/BBCN.png" ,BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde.it" tvg-chno="911" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/320px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
