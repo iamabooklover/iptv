@@ -177,22 +177,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="CNN Intl.it" tvg-chno="901" tvg-logo="https://static.cdnlogo.com/logos/c/45/cnn.png" ,CNN International
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk.it" tvg-chno="902" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/320px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News UK
+#EXTINF:-1 tvg-id="BBC World News.it" tvg-chno="902" tvg-logo="https://images.seeklogo.com/logo-png/51/2/bbc-news-logo-png_seeklogo-519158.png" ,BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC1.it" tvg-chno="903" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/330px-BBC_One_logo_2021.svg.png" ,BBC One
-https://livetvde.net/bbcone/index.m3u8?token=5dad4bab24d340513f3f2c267b6c214fed2b7f5d-4f79cfcd37efb5080af23627e7e1e4ef-1743541300-1743530500
-#EXTINF:-1 tvg-id="BBC2.it" tvg-chno="904" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/320px-BBC_Two_logo_2021.svg.png" ,BBC Two
-https://livetvde.net/bbctwo/index.m3u8?token=d8262ec6c7e86769966bfbdca132bf2d462a6b1b-84e4b5449feecba92ff4fb0b8259b6a2-1743541247-1743530447
-#EXTINF:-1 tvg-id="BBC3.it" tvg-chno="905" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_logo_2021.svg/320px-BBC_Three_logo_2021.svg.png" ,BBC Three
-https://livetvde.net/bbcthree/index.m3u8?token=5cc91751373ce6e2556ca62b8802ab8d962b2d50-762b457eedea67c0a20d93c3dab4c90b-1743541503-1743530703
-#EXTINF:-1 tvg-id="BBC4.it" tvg-chno="906" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/330px-BBC_Four_logo_2021.svg.png" ,BBC Four
-https://livetvde.net/bbcfour/index.m3u8?token=78e2335f4d32a5562ae252a4d70c94d2ef06193f-4ab5f51097776b9fb6ad27b619207e4c-1743541683-1743530883
-#EXTINF:-1 tvg-id="C4.uk.it" tvg-chno="907" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/240px-Channel_4_Logo_2023.svg.png" ,Channel 4 UK
-https://livetvde.net/channel4/index.m3u8?token=85c749432f7abb1171fc5641841d424d88a0279b-e6c4256bf4a3e041d940053bf3858398-1743541062-1743530262
-#EXTINF:-1 tvg-id="tf1.fr.it" tvg-chno="908" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/320px-Logo_TF1_2013.svg.png" ,TF1
-https://livetvde.net/tf1/index.m3u8?token=6819cfc20d695c4b166e69e7db4fe9236f931438-b39fc151790651fdafd36ace62334771-1743541973-1743531173
-#EXTINF:-1 tvg-id="france2.it" tvg-chno="909" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/330px-France_2_2018.svg.png" ,France 2
-http://69.64.57.208/france2/mono.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde.it" tvg-chno="911" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/320px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde Info.it" tvg-chno="912" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/320px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Monde info
