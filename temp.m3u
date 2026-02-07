@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ABCTVWA.au" tvg-logo="https://i.imgur.com/DPVQSjM.png",ABC TV WA
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",BBC News Asia Pacific
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTVsix
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+http://hls.168.us.kg/u/99/master.m3u8
+#EXTINF:-1 tvg-id="nowNews.hk" tvg-logo="https://i.imgur.com/m6tWo9p.png",now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e0/TVB_News_Channel_logo_v2.png/revision/latest?cb=20240308071419&path-prefix=vi",无线新闻台
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 tvg-id="Pearl.hk" tvg-logo="https://i.imgur.com/UPdcMkW.png",明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",凤凰卫视中文台
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png",凤凰卫视资讯台
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G 東京
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/WxtftlO.png",NHK E 東京
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/t0uZcSR.png",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://i.imgur.com/uvPpFo5.png",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
